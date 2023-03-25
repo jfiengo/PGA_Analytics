@@ -1,0 +1,3 @@
+# PGA Tour Analytics 2015-2022
+### Description
+The goal of this project is to create a simple user interface that displays analytics for any PGA Tour golfer the user selects. Obviously, for some golfers who don't participate in as many tournaments there will be less data and therefore their analytics won't be as reliable. However, for the majority of PGA Tour golfers this will provide interesting information.
